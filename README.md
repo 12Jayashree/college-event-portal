@@ -92,4 +92,5 @@ This project was developed as part of my web development learning and academic p
 This project is created for educational purposes.
 screenshot<img width="1920" height="1080" alt="Screenshot 2026-09-30 110006" src="https://github.com/user-attachments/assets/91b9b42b-7257-460b-b570-b696c8744fda" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-30 105944" src="https://github.com/user-attachments/assets/5b62e530-9c49-411a-b472-20dd98aca3b7" />
-link 
+link  https://12jayashree.github.io/college-event-portal/
+Last deployed by @12Jayashree 12Jayashree
